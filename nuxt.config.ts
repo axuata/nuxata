@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   css: [
     '~/assets/styles/global.scss'
   ],
+  modules: [ '@nuxt/image'],
   app:{
     head: {
       title: "サイト名をここに",
