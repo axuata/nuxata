@@ -1,2 +1,2 @@
 # Nuxrix
-Nuxt template for lazy people
+怠け者のためのNuxtテンプレート
