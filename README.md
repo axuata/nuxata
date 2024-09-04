@@ -1,2 +1,2 @@
 # Nuxrix
-Nuxt Template
+Nuxtテンプレート
